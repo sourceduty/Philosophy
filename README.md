@@ -58,6 +58,10 @@ Finally, it’s important to acknowledge that wants are not inherently bad. They
 There isn't a single universally accepted equation or template for balancing needs and wants. People have to develop and use practical frameworks that help individuals or groups manage and prioritize needs and wants. The goal of such frameworks is to find a balance between fulfilling essential needs and pursuing desires (wants) in a sustainable and healthy way.
 
 #
+
+> Alex: "*I balance my personal/pro needs and wants very well, to the best of my abilities.*"
+
+#
 ### Related Links
 
 [ANTI-](https://github.com/sourceduty/ANTI-)
