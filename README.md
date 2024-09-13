@@ -11,6 +11,26 @@ In the modern era, philosophy evolved to address new social, scientific, and exi
 Today, modern philosophy continues to evolve in response to contemporary issues such as technology, environmental concerns, and social justice. Postmodern thinkers like Foucault and Derrida questioned the idea of absolute truths, emphasizing that knowledge and power are often intertwined and subjective. Meanwhile, the rise of applied philosophy has brought philosophical thought into discussions on artificial intelligence, bioethics, and political theory, demonstrating the continued relevance of philosophy in solving real-world problems. This blend of historic insights with modern dilemmas shows the dynamic nature of philosophy, adapting to the changing needs of society while remaining rooted in the age-old pursuit of wisdom.
 
 #
+### Branches of Philosophy
+
+| Philosophy Branch      | Description                                            |
+|------------------------|--------------------------------------------------------|
+| Metaphysics            | Study of the nature of reality, existence, and the fundamental nature of being. |
+| Epistemology           | Study of knowledge, belief, and the nature of justification. |
+| Ethics                 | Study of moral principles, right and wrong, and the concept of virtue. |
+| Logic                  | Study of reasoning, argument structure, and the principles of valid inference. |
+| Aesthetics             | Study of beauty, art, and taste, and their philosophical interpretation. |
+| Political Philosophy   | Study of government, politics, justice, rights, and the role of individuals in society. |
+| Philosophy of Mind     | Study of the nature of the mind, consciousness, and mental processes. |
+| Philosophy of Language | Study of the nature, origins, and use of language and meaning. |
+| Philosophy of Science  | Study of scientific inquiry, the nature of scientific knowledge, and the methods of science. |
+| Philosophy of Religion | Study of religious beliefs, the nature of God, and the relationship between religion and philosophy. |
+| Existentialism         | Study of individual existence, freedom, and choice. |
+| Phenomenology          | Study of structures of consciousness from the first-person perspective. |
+| Ethics of Care         | Focus on the importance of interpersonal relationships and empathy in ethical decision-making. |
+| Environmental Philosophy | Study of human interactions with the environment and the ethical implications of environmental issues. |
+
+#
 ### Needs and Wants
 
 ![Balance](https://github.com/user-attachments/assets/aa2ae5e7-0a1f-4dfa-a47e-0ec43a6df00b)
