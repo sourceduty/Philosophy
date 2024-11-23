@@ -78,6 +78,8 @@ However, the pursuit of wealth can sometimes be driven by societal pressures or 
 [ANTI-](https://github.com/sourceduty/ANTI-)
 <br>
 [Thinking As](https://github.com/sourceduty/Thinking_As)
+<br>
+[Philosophy Simulator](https://github.com/sourceduty/Philosophy_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
